@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import SnapKit
 
 extension UIViewController {
     private struct LZRuntimeKey {

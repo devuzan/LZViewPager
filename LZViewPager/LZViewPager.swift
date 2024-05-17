@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import SnapKit
 
 @objc public enum ButtonsAlignment: Int {
     case left
